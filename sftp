@@ -32,3 +32,5 @@ version                            Show SFTP version
 !                                  Escape to local shell
 ?                                  Synonym for help
 
+EXAMPLES:
+sftp -b /REPO/scripts/BATCH/orhp_cnb_sftp_batch.bat  -i /REPO/cnb_private.key  oldrepub@mway.cnb.com:/oldrepub.fromcnb
