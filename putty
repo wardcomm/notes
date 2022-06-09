@@ -1,0 +1,2 @@
+#!/bin/bash
+apt intall putty-tools -Y
